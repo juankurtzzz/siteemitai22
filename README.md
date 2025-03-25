@@ -28,15 +28,6 @@ Este site foi criado para a turma EMITAI 22 do IFC - Campus Luzerna, da qual fiz
 ├── README.md            # Documentação do projeto
 └── .gitignore           # Arquivos ignorados pelo Git
 ```
-
-## 📷 Como Contribuir
-Se você fez parte da turma e deseja adicionar mais fotos ou sugerir melhorias, sinta-se à vontade para contribuir! 
-
-1. Faça um **fork** do repositório
-2. Adicione suas imagens na pasta `app/static/images`
-3. Atualize o código conforme necessário
-4. Envie um **pull request**
-
 ## 📌 Acesse o Site
 Você pode visualizar a galeria acessando o seguinte link: [**Site EMITAI 22**](https://siteemitai22.netlify.app/)
 
