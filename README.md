@@ -30,7 +30,3 @@ Este site foi criado para a turma EMITAI 22 do IFC - Campus Luzerna, da qual fiz
 ```
 ## 📌 Acesse o Site
 Você pode visualizar a galeria acessando o seguinte link: [**Site EMITAI 22**](https://siteemitai22.netlify.app/)
-
----
-✉️ Para dúvidas ou sugestões, entre em contato! 😊
-
